@@ -1,0 +1,19 @@
+{
+  "name": "restful",
+  "version": "0.0.1",
+  "description": "Serverless CRUD service exposing a REST HTTP interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "restful",
+    "api",
+    "server"
+  ],
+  "author": "jimliu",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.2.1"
+  }
+}
